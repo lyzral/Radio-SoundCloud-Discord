@@ -1,0 +1,9 @@
+server:
+  port: 2333
+
+lavalink:
+  server:
+    password: "youshallnotpass"
+
+# Note: On laisse les sources par défaut.
+# Le bot, lui, bloque tout sauf les liens SoundCloud.
